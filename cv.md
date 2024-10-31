@@ -13,7 +13,7 @@
 
 **Discord:** tatsianakuryla
 
-**[LinkedIn](www.linkedin.com/in/tatsiana-kuryla-36a94b330)**
+**[LinkedIn](https://www.linkedin.com/in/tatsiana-kuryla/)**
 
 ====
 ### Briefly About Myself:
