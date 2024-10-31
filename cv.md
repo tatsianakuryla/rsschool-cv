@@ -4,11 +4,17 @@
 ====
 ### Contact information:
 *Valencia, Spain*
+
 **E-mail:** tatsianakuryla@gmail.com
+
 **GitHib:** tatsianakuryla
+
 **Telegram:** @tanyakuryla
+
 **Discord:** tatsianakuryla
+
 **[LinkedIn](www.linkedin.com/in/tatsiana-kuryla-36a94b330)**
+
 ====
 ### Briefly About Myself:
 Aspiring Frontend Developer with a strong foundation in HTML, CSS, TypeScript, and JavaScript, currently expanding my expertise in ReactJS. I am seeking a Frontend Developer Internship to apply my knowledge of modern web technologies, work on dynamic and innovative projects, and enhance my problem-solving and communication skills in a collaborative, team-driven environment. With experience in analyzing data, managing complex workflows, and delivering results, I am eager to contribute to a forward-thinking organization while continuously learning and growing as a developer.
@@ -41,5 +47,5 @@ function highAndLow(numbers){
 ```
 ====
 ### Languages:
-Belarusian, Russian - Native
-English - Upper-Intermediate
+* Belarusian, Russian - Native
+* English - Upper-Intermediate
